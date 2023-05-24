@@ -1,6 +1,6 @@
 # expire-map
 
-## A hyper-efficient, concurrent hashmap designed for eager value expiration. Underpinned by the power of [`DashMap`](https://github.com/xacrimon/dashmap) and [`tokio`](https://github.com/tokio-rs/tokio).
+## An efficient, concurrent hashmap designed for eager value expiration. Underpinned by the power of [`DashMap`](https://github.com/xacrimon/dashmap) and [`tokio`](https://github.com/tokio-rs/tokio).
 
 Note: Requires a `tokio` runtime.
 
